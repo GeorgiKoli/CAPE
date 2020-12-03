@@ -1,3 +1,5 @@
+#' This is a title
+#'
 #' Converts a \code{\link{read_population}} object to a multi-parent object
 #'
 #' This function converts an object formatted for cape 1.0
